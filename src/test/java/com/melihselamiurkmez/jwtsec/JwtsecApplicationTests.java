@@ -1,10 +1,10 @@
-package com.melihsurkmez.springsecurity;
+package com.melihselamiurkmez.jwtsec;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringsecurityApplicationTests {
+class JwtsecApplicationTests {
 
 	@Test
 	void contextLoads() {

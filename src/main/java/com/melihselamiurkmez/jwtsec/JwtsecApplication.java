@@ -1,13 +1,13 @@
-package com.melihsurkmez.springsecurity;
+package com.melihselamiurkmez.jwtsec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringsecurityApplication {
+public class JwtsecApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringsecurityApplication.class, args);
+		SpringApplication.run(JwtsecApplication.class, args);
 	}
 
 }
